@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookSearchingApp</string>
+    <string name="book_cover">Book cover</string>
+    <string name="search">Search</string>
+    <string name="clear_search">Clear search</string>
+    <string name="book_download_failure">Something went wrong... Please try later!</string>
+</resources>
